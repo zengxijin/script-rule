@@ -1,0 +1,6 @@
+rootProject.name = 'script-engine'
+include 'mvel-engine'
+include 'grovvy-engine'
+include 'javascript-engine'
+include 'python-engine'
+

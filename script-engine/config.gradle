@@ -1,0 +1,14 @@
+ext {
+    mvelVersion = "2.4.0.Final"
+
+    dependencies = [
+            // common lib
+            "lombok": "org.projectlombok:lombok:1.16.20",
+            "commons-lang3": "org.apache.commons:commons-lang3:3.6",
+            "guava": "com.google.guava:guava:23.0",
+            "jackson-databind": "com.fasterxml.jackson.core:jackson-databind:2.9.0",
+
+            // for test
+            "junit": "junit:junit:4.12",
+    ]
+}

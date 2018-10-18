@@ -1,6 +1,6 @@
 rootProject.name = 'script-engine'
 include 'mvel-engine'
-include 'grovvy-engine'
+include 'groovy-engine'
 include 'javascript-engine'
 include 'python-engine'
 include 'se-common'
